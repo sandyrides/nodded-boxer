@@ -1,0 +1,19 @@
+{
+  "name": "nodded-boxer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandyrides/nodded-boxer.git"
+  },
+  "author": "sandyrides <ghotrasandeep50@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandyrides/nodded-boxer/issues"
+  },
+  "homepage": "https://github.com/sandyrides/nodded-boxer#readme"
+}
